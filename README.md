@@ -1,3 +1,3 @@
-#React básico
+React básico
 
-##Cadastro de Artitas e músicas
+Cadastro de Artitas e músicas
