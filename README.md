@@ -1,3 +1,3 @@
 React básico
 
-Cadastro de Artitas e músicas
+Cadastro de Artistas e músicas
